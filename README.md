@@ -1,6 +1,6 @@
-# Patient Management System
+# Appointment Scheduling System
 
-A full-stack Patient Management System built with React (frontend), Node.js/Express (backend), PostgreSQL (database), and JWT authentication.
+A full-stack Appointment Scheduling System built with React (frontend), Node.js/Express (backend), PostgreSQL (database), and JWT authentication.
 
 ## Structure
 
